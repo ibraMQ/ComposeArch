@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComposeArch</string>
+    <string name="welcome">BIENVENIDO</string>
+    <string name="name">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="access">Acceder</string>
+    <string name="error">Error</string>
+    <string name="loading">Cargando</string>
+    <string name="inS">Conectado</string>
+    <string name="out">Desconectado</string>
+</resources>
